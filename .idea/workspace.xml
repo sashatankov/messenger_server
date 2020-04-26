@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4cb64f0-41de-412f-9ee9-86139f6dd8ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1acHM2GBN8ION5AfQqaNqWRpfsU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build" />
+      <recent name="$PROJECT_DIR$/build/static" />
+      <recent name="$PROJECT_DIR$/build/static/js" />
+      <recent name="$PROJECT_DIR$/build/static/css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flask server.Flask (server.py)">
+    <configuration name="build" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="messenger_server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build.py" />
+      <option name="PARAMETERS" value="../messenger" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (server.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="messenger_server" />
+      <option name="target" value="$PROJECT_DIR$/server.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="messenger_server" type="Python.FlaskServer">
+      <module name="messenger_server" />
+      <option name="target" value="$PROJECT_DIR$/server.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.messenger_server" />
+      <item itemvalue="Flask server.Flask (server.py)" />
+      <item itemvalue="Python.build" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flask server.Flask (server.py)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4cb64f0-41de-412f-9ee9-86139f6dd8ff" name="Default Changelist" comment="" />
+      <created>1587027910884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587027910884</updated>
+      <workItem from="1587027912049" duration="267000" />
+      <workItem from="1587227587258" duration="11810000" />
+      <workItem from="1587320837890" duration="8781000" />
+      <workItem from="1587670601035" duration="6592000" />
+      <workItem from="1587748217181" duration="6197000" />
+      <workItem from="1587931461469" duration="385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="158" key="#build" timestamp="1587323241754">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="638" y="158" key="#build/0.24.1920.1056@0.24.1920.1056" timestamp="1587323241754" />
+    <state x="423" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587323710774">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="423" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1920.1056@0.24.1920.1056" timestamp="1587323710774" />
+    <state width="1870" height="296" key="GridCell.Tab.0.bottom" timestamp="1587754727644">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1870" height="296" key="GridCell.Tab.0.bottom/0.24.1920.1056@0.24.1920.1056" timestamp="1587754727644" />
+    <state width="1870" height="296" key="GridCell.Tab.0.center" timestamp="1587754727644">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1870" height="296" key="GridCell.Tab.0.center/0.24.1920.1056@0.24.1920.1056" timestamp="1587754727644" />
+    <state width="1870" height="296" key="GridCell.Tab.0.left" timestamp="1587754727643">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1870" height="296" key="GridCell.Tab.0.left/0.24.1920.1056@0.24.1920.1056" timestamp="1587754727643" />
+    <state width="1870" height="296" key="GridCell.Tab.0.right" timestamp="1587754727644">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1870" height="296" key="GridCell.Tab.0.right/0.24.1920.1056@0.24.1920.1056" timestamp="1587754727644" />
+    <state width="1874" height="365" key="GridCell.Tab.1.bottom" timestamp="1587330544176">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1874" height="365" key="GridCell.Tab.1.bottom/0.24.1920.1056@0.24.1920.1056" timestamp="1587330544176" />
+    <state width="1874" height="365" key="GridCell.Tab.1.center" timestamp="1587330544175">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1874" height="365" key="GridCell.Tab.1.center/0.24.1920.1056@0.24.1920.1056" timestamp="1587330544175" />
+    <state width="1874" height="365" key="GridCell.Tab.1.left" timestamp="1587330544175">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1874" height="365" key="GridCell.Tab.1.left/0.24.1920.1056@0.24.1920.1056" timestamp="1587330544175" />
+    <state width="1874" height="365" key="GridCell.Tab.1.right" timestamp="1587330544175">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1874" height="365" key="GridCell.Tab.1.right/0.24.1920.1056@0.24.1920.1056" timestamp="1587330544175" />
+    <state x="453" y="174" key="SettingsEditor" timestamp="1587028140672">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="453" y="174" key="SettingsEditor/0.24.1920.1056@0.24.1920.1056" timestamp="1587028140672" />
+    <state x="621" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1587933123296">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="621" y="367" key="com.intellij.ide.util.TipDialog/0.24.1920.1056@0.24.1920.1056" timestamp="1587933123296" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/build.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/messenger_server$messenger_server.coverage" NAME="messenger_server Coverage Results" MODIFIED="1587243339608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/messenger_server$Flask__server_py_.coverage" NAME="Flask (server.py) Coverage Results" MODIFIED="1587753868333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/messenger_server$build.coverage" NAME="build Coverage Results" MODIFIED="1587324107291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
